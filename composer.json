@@ -1,0 +1,17 @@
+{
+    "name": "givinghawk/popcatwrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Givinghawk\\Popcatwrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Givinghawk",
+            "email": "gh@givinghawk.xyz"
+        }
+    ],
+    "require": {}
+}
